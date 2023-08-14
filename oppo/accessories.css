@@ -1,0 +1,146 @@
+.power {
+    font-size: 50px;
+    margin-top: 120px;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+.Power_Bank {
+    background-image: url(./images/Powerbank.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.Pow_Ban {
+    font-size: 37px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.Charger1 {
+    background-image: url(./images/charger1.png);
+    margin-left: 30px;
+    /* margin-top: px; */
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+    border-radius: 200px;
+}
+
+.charg_1 {
+    font-size: 20px;
+    margin-top: 400px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+del {
+    color: red;
+}
+
+.charger2 {
+    background-image: url(./images/charger2.png);
+    margin-left: 450px;
+    margin-top: -380px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.charge_2 {
+    font-size: 20px;
+    margin-top: 380px;
+    margin-left: 100px;
+    color: darkblue;
+}
+
+.charger3 {
+    background-image: url(./images/charger3.png);
+    margin-left: 950px;
+    margin-top: -420px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.char_3 {
+    font-size: 20px;
+    margin-top: 390px;
+    margin-left: 110px;
+    color: darkblue;
+}
+
+.carCharger {
+    background-image: url(./images/carCharger.jpeg);
+    margin-left: 30px;
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.car_Charger {
+    font-size: 20px;
+    margin-top: 370px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+del {
+    color: red;
+}
+
+.BumperCase {
+    background-image: url(./images/bumperCase.png);
+    margin-left: 450px;
+    margin-top: -400px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.bumper_Case {
+    font-size: 20px;
+    margin-top: 365px;
+    margin-left: 100px;
+    color: darkblue;
+}
+
+.microUsb {
+    background-image: url(./images/microUsb.png);
+    margin-left: 950px;
+    margin-top: -420px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.micro_usb {
+    font-size: 20px;
+    margin-top: 380px;
+    margin-left: 110px;
+    color: darkblue;
+}

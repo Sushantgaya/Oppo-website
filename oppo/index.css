@@ -1,0 +1,479 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .container {
+        width: 100%;
+        background-color: rgb(241, 233, 233);
+        position: fixed;
+        margin-top: 0px;
+        height: 80px;
+        z-index: 999;
+    }
+    
+    .container a:hover {
+        color: blue;
+    }
+    
+    a.logo {
+        font-size: 50px;
+        text-decoration: none;
+        margin: 50px;
+        color: black;
+    }
+    
+    a {
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        margin-left: 15px;
+    }
+    
+    .top_section {
+        display: flex;
+        justify-content: right;
+    }
+    
+    .top_section a {
+        display: flex;
+        justify-content: right;
+        margin-top: -30px;
+    }
+    
+    input[type="text"] {
+        border: 2px solid white;
+        border-radius: 20px;
+        margin-right: 100px;
+        margin-top: -30px;
+        margin-left: 8px;
+    }
+    
+    .login,
+    .cart {
+        margin-right: 15px;
+    }
+    
+    .container2 {
+        background-image: url(./images/reno8-t-5g-pc.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 600px;
+        margin-top: -37px;
+    }
+    
+    .Reno_oppo {
+        margin-top: 80px;
+        margin-left: 80px;
+        font-size: 70px;
+    }
+    
+    sup {
+        color: chartreuse;
+    }
+    
+    .Step_above {
+        margin-left: 80px;
+        margin-top: 15px;
+        font-size: 40px;
+        color: blueviolet;
+    }
+    
+    .portrait {
+        margin-top: 160px;
+        margin-left: 120px;
+    }
+    
+    .buy_now {
+        border: 1px solid black;
+        border-radius: 15px;
+        background-color: black;
+        color: white;
+        padding: 8px;
+        margin-left: 80px;
+    }
+    
+    .Learn_more {
+        border: 1px solid black;
+        border-radius: 15px;
+        color: black;
+        padding: 8px;
+        margin-left: 30px;
+    }
+    
+    .Second_image {
+        height: 800px;
+        width: 100%;
+    }
+    
+    .container3 {
+        background-image: url(./images/find-n2-flip-5120_1280.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 500px;
+        margin-top: -80px;
+    }
+    
+    .oppo_Flip {
+        margin-top: 80px;
+        margin-left: 80px;
+        font-size: 70px;
+    }
+    
+    .See_more {
+        margin-left: 80px;
+        margin-top: 15px;
+        font-size: 40px;
+        color: blueviolet;
+    }
+    
+    .best_flip {
+        margin-top: 250px;
+        margin-left: 90px;
+    }
+    
+    .Middle {
+        height: 50px;
+        width: 100%;
+        background-color: rgb(241, 233, 233);
+    }
+    
+    .New_product {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    
+    #View_more {
+        margin-left: 70%;
+    }
+    
+    .oppoA78 {
+        height: 400px;
+        width: 80%;
+        background-image: url(./images/oppo\ A78.webp);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-left: 130px;
+        font-size: 20px;
+    }
+    
+    .oppo_78 {
+        font-size: 70px;
+        margin-left: 60px;
+        margin-top: 10px;
+    }
+    
+    .A78_footer {
+        height: 100px;
+        width: 250px;
+        background-color: rgb(191, 230, 217);
+        margin: 220px 20px 20px;
+        border-radius: 20PX;
+    }
+    
+    .super {
+        margin-left: 20px;
+    }
+    
+    .oppof21 {
+        height: 500px;
+        width: 600px;
+        background-image: url(./images/images-highlights-3-d8384.jpg.webp);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-left: 130px;
+        font-size: 20px;
+    }
+    
+    .oppo_f21 {
+        font-size: 50px;
+        margin-left: 60px;
+        margin-top: 10px;
+    }
+    
+    .f21_footer {
+        height: 100px;
+        width: 250px;
+        background-color: rgb(245, 227, 193);
+        margin: 340px 20px 20px;
+        border-radius: 20PX;
+    }
+    
+    .super {
+        margin-left: 20px;
+    }
+    
+    .oppo8T {
+        height: 500px;
+        width: 600px;
+        background-image: url(./images/8T.webp);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        font-size: 20px;
+        margin-left: 615px;
+        margin-top: -520px;
+        background-color: rgb(222, 201, 162);
+    }
+    
+    .oppo_8T {
+        font-size: 50px;
+        margin-left: 60px;
+        /* margin-top: 50px; */
+    }
+    
+    .Reno8T_footer {
+        height: 100px;
+        width: 250px;
+        background-color: rgb(245, 227, 193);
+        margin: 340px 20px 20px;
+        border-radius: 20PX;
+    }
+    
+    .super2 {
+        margin-left: 20px;
+    }
+    
+    .oppof21s {
+        height: 500px;
+        width: 600px;
+        background-image: url(./images/F21s-Pro-5G-pc.png.thumb.webp);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        font-size: 20px;
+        background-color: rgb(222, 201, 162);
+    }
+    
+    .oppo_f21s {
+        font-size: 50px;
+        margin-left: 60px;
+        margin-top: 10px;
+    }
+    
+    .f21s_footer {
+        height: 100px;
+        width: 250px;
+        background-color: rgb(245, 227, 193);
+        margin: 340px 20px 20px;
+        border-radius: 20PX;
+    }
+    
+    .super {
+        margin-left: 20px;
+    }
+    
+    .oppoPadAir {
+        height: 500px;
+        width: 600px;
+        background-image: url(./images/pad\ air.webp);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        font-size: 20px;
+        margin-left: 615px;
+        margin-top: -520px;
+        background-color: rgb(222, 201, 162);
+    }
+    
+    .oppo_PadAir {
+        font-size: 50px;
+        margin-left: 60px;
+        /* margin-top: 50px; */
+    }
+    
+    .PadAir_footer {
+        height: 100px;
+        width: 250px;
+        background-color: rgb(245, 227, 193);
+        margin: 340px 20px 20px;
+        border-radius: 20PX;
+    }
+    
+    .super2 {
+        margin-left: 20px;
+    }
+    
+    .burd2 {
+        height: 500px;
+        width: 600px;
+        background-image: url(./images/burd2.webp);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        font-size: 20px;
+        background-color: rgb(222, 201, 162);
+    }
+    
+    .oppo_burd2 {
+        font-size: 50px;
+        margin-left: 80px;
+        margin-top: 10px;
+    }
+    
+    .burd2_footer {
+        height: 100px;
+        width: 250px;
+        background-color: rgb(245, 227, 193);
+        margin: 340px 20px 20px;
+        border-radius: 20PX;
+    }
+    
+    .super {
+        margin-left: 20px;
+    }
+    
+    .oppoair2 {
+        height: 500px;
+        width: 600px;
+        background-image: url(./images/air2\ burd.webp);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        font-size: 20px;
+        margin-left: 615px;
+        margin-top: -520px;
+        background-color: rgb(222, 201, 162);
+    }
+    
+    .oppo_air2 {
+        font-size: 50px;
+        margin-left: 60px;
+        /* margin-top: 50px; */
+    }
+    
+    .air2_footer {
+        height: 100px;
+        width: 250px;
+        background-color: rgb(245, 227, 193);
+        margin: 340px 20px 20px;
+        border-radius: 20PX;
+    }
+    
+    .super2 {
+        margin-left: 20px;
+    }
+    
+    .members {
+        font-family: sans-serif;
+        width: 150%;
+        padding: 20px 100px;
+        margin-left: 120px;
+    }
+    
+    .member-info {
+        text-align: center;
+    }
+    
+    .member-info h1 {
+        font-size: 2.5em;
+    }
+    
+    .member-info h1 span {
+        color: #e74c3c;
+    }
+    
+    .member-card {
+        text-align: center;
+        padding-top: 50px;
+        width: 50%;
+        margin: auto;
+    }
+    
+    .member-card p {
+        margin: 20px 0px;
+        line-height: 2em;
+    }
+    
+    .member-card h2 {
+        margin: 20px 0px;
+    }
+    
+    .member-card img {
+        border-radius: 120px;
+        height: 100px;
+    }
+    
+    footer {
+        background: #262626;
+        color: white;
+        width: 170%;
+        margin-left: -350px;
+        /* height: 420px; */
+    }
+    
+    .newsletter {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 30px;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    
+    .newsletter>div {
+        flex-basis: 50%;
+    }
+    
+    .n-text {
+        text-align: right;
+    }
+    
+    button {
+        margin-right: 100px;
+        margin-top: -13.5px
+    }
+    
+    .newsletter h2 {
+        font-size: 2em;
+        font-family: sans-serif;
+    }
+    
+    .newsletter p {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    
+    .newsletter label {
+        position: relative;
+    }
+    
+    .newsletter input {
+        padding: 20px;
+        width: 70%;
+        border-radius: 8px;
+        border: none;
+        outline: none;
+        font-family: sans-serif;
+    }
+    
+    .newsletter button {
+        position: absolute;
+        right: 0;
+        padding: 20px;
+        width: 30%;
+        background: #e74c3c;
+        color: white;
+        border: none;
+        outline: none;
+        border-radius: 0 8px 8px 0;
+    }
+    
+    .f-contact {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-top: 3em;
+        margin-left: 20px;
+    }
+    
+    .f-contact>div {
+        flex-basis: 20%;
+    }
+    
+    .f-contact p {
+        line-height: 2em;
+        font-size: 20px;
+        color: grey;
+        cursor: pointer;
+    }
+    
+    .f-contact p:hover {
+        color: white;
+    }

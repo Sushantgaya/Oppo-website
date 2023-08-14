@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="./smartphones.css">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./tablet.css">
+</head>
+
+<body>
+
+    <header class="container">
+        <a class="logo" href="./index.html">Oppo</a>
+        <a id="images" href="#">SmartPhones</a>
+        <a href="./tablet.html">Tablet</a>
+        <a href="./audio.html">Audio</a>
+        <a href="./wearable.html">Wearables</a>
+        <a href="./accessories.html">Accessories</a>
+        <a href="./aboutoppo.html">About Oppo</a>
+        <div class="top_section">
+            <a href="#">store</a>
+            <a href="#">support</a>
+            <a href="#">community</a>
+            <input type="text" placeholder=" &#128270; Search Oppo.com">
+            <a class="login" href="./login.html">Login</a>
+            <a class="cart" ref=" # ">Cart</a>
+    </header><br><br>
+
+    <div class="smartphones">
+        <h1 class="s1">Smartphone</h1>
+    </div>
+
+    <div class="options">
+        <a href="">Find N Series</a>
+        <a href="#text1">Find X Series</a>
+        <a href="#text2">Reno Series</a>
+        <a href="#text3">F Series</a>
+        <a href="#text4">A Series</a>
+        <a href="#text5">K series</a>
+    </div>
+
+    <div class="Find_n_series" data-aos="zoom-in-up" data-aos-offset="100" data-aos-delay="100">
+        <h1 class="N_series"><br><br>Find N Series</h1>
+    </div>
+
+    <div class="findN2_flip">
+        <h1 class="n2_flip">OPPO FIND N2 FLIP
+            <br>&nbsp; &nbsp;89999.00 <del>99999.00</del> </h1>
+    </div>
+    <div class="Find_X_series" id="text1">
+        <h1 class="X_series"><br><br>Find X Series</h1>
+    </div>
+    <div class="findX2_flip">
+        <h1 class=" X2_flip ">&nbsp; &nbsp;OPPO FIND X2
+            <br>
+            <p>&nbsp; &nbsp;Uncover The Ultimate</p>
+        </h1>
+    </div>
+    <div class="Reno_series " id="text2">
+        <h1 class="R_series "><br><br>Reno Series</h1>
+    </div>
+    <div class="Reno8pro ">
+        <h1 class="Reno8_pro ">&nbsp; &nbsp;OPPO Reno8 Pro 5G
+            <br>
+            <p>&nbsp; &nbsp;Ultra Clear Night,In Potrait</p>
+        </h1>
+    </div>
+    <div class="Fseries " id="text3">
+        <h1 class=" F_series "><br><br>F Series</h1>
+    </div>
+    <div class="F21sPro ">
+        <h1 class="F21s_pro ">&nbsp;OPPO F21 Pro 5G
+            <br>
+            <p>&nbsp; &nbsp;Exchange bonus upto &#8377;20000</p>
+        </h1>
+    </div>
+    <div class="Aseries " id="text4">
+        <h1 class="A_series "><br><br>A Series</h1>
+    </div>
+    <div class="oppoA77s ">
+        <h1 class="oppo_A77s ">&nbsp;OPPO A77s
+            <br>
+            <p>&nbsp; &nbsp;17999.00 <del>22999.00</del> </p>
+        </h1>
+    </div>
+    <div class="Kseries " id="text5">
+        <h1 class="K_series "><br><br>K Series</h1>
+    </div>
+
+
+
+    <footer class="footer">
+        <div class="newsletter1">
+            <div data-aos="fade-up" data-aos-offset="200">
+                <h2>OPPO SMARTPHONES</h2>
+                <p>We’re a team of non-cynics who truly care for our work.</p>
+            </div>
+            <div class="n-text2" data-aos="fade-up-right" data-aos-offset="200">
+                <label>
+                    <input type="text" name="" placeholder="Enter your email">
+                    <button class="button">Subscribe</button>
+    
+                </label>
+            </div>
+        </div>
+
+
+        <div class="f-contact1" data-aos="zoom-in-up" data-aos-offset="200">
+            <div>
+                <h1>Information</h1>
+                <p>OPPO smartphones is a no1 Brand in India.</p>
+
+
+            </div>
+
+
+            <div>
+                <h1>Useful links</h1>
+                <p>About us</p>
+                <p>Gallery</p>
+                <p>Blog posts</p>
+                <p>Pricing plans</p>
+
+            </div>
+
+            <div>
+                <h1>Details</h1>
+                <p>Photographers</p>
+                <p>Gallery</p>
+                <p>About</p>
+                <p>Pricing plans</p>
+
+            </div>
+
+            <div>
+                <h1>Help & Support</h1>
+                <p>Privacy policy</p>
+                <p>Term & conditions</p>
+                <p>Technical support</p>
+                <p>Customer care</p>
+
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script>
+        $('.portfolio-item').isotope({
+            // options
+            itemSelector: '.item',
+            layoutMode: 'fitRows'
+        });
+        $('.portfolio-menu ul li').click(function() {
+            $('.portfolio-menu ul li').removeClass('active');
+            $(this).addClass('active');
+
+            var selector = $(this).attr('data-filter');
+            $('.portfolio-item').isotope({
+                filter: selector
+            });
+            return false;
+        });
+    </script>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,89 @@
+.wearable {
+    font-size: 50px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    margin-left: 100px;
+}
+
+.wearable_banner {
+    background-image: url(./images/Wearables2.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.waer_Ban {
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.watchfree {
+    background-image: url(./images/watchFree.png);
+    margin-left: 30px;
+    /* margin-top: px; */
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.watch_free {
+    font-size: 25px;
+    margin-top: 380px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+del {
+    color: red;
+}
+
+.bandStyle {
+    background-image: url(./images/Band\ style.png);
+    margin-left: 450px;
+    margin-top: -380px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.band_style {
+    font-size: 25px;
+    margin-top: 380px;
+    margin-left: 130px;
+    color: darkblue;
+}
+
+.watch46mm {
+    background-image: url(./images/watch\ 46mm.jpg);
+    margin-left: 950px;
+    margin-top: -420px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Watch_46mm {
+    font-size: 25px;
+    margin-top: 390px;
+    margin-left: 120px;
+    color: darkblue;
+}
+
+.active {
+    color: black;
+    font-size: 20px;
+}

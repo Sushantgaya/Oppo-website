@@ -1,0 +1,237 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.smartphones {
+    height: 100px;
+    width: 100px;
+}
+
+.s1 {
+    font-size: 50px;
+    margin-top: 120px;
+    font-family: sans-serif;
+    margin-left: 100px;
+}
+
+.options {
+    /* margin-left: 200px; */
+    font-weight: bold;
+    font-style: italic;
+}
+
+.options a {
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+.options a:hover {
+    color: blueviolet;
+}
+
+.Find_n_series {
+    background-image: url(./images/Find-N-Series.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.N_series {
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.findN2_flip {
+    background-image: url(./images/find\ n2\ flip.png);
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.n2_flip {
+    font-size: 25px;
+    margin-top: 380px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+del {
+    color: red;
+}
+
+.Find_X_series {
+    background-image: url(./images/Find-\ X-series.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+    margin-top: 80px;
+}
+
+.X_series {
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.findX2_flip {
+    background-image: url(./images/find-x2-black.png);
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.X2_flip {
+    font-size: 25px;
+    margin-top: 380px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+}
+
+.Reno_series {
+    background-image: url(./images/reno\ series.webp);
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+    margin-top: 80px;
+}
+
+.R_series {
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.Reno8pro {
+    background-image: url(./images/Reno8pro.png);
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Reno8_pro {
+    font-size: 25px;
+    margin-top: 380px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+.Fseries {
+    background-image: url(./images/F\ series.jpg);
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+    margin-top: 80px;
+}
+
+.F_series {
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.F21sPro {
+    background-image: url(./images/F21s-Pro-5G-pc.png.thumb.webp);
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.F21s_pro {
+    font-size: 29px;
+    margin-top: 380px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+.Aseries {
+    background-image: url(./images/A-series.jpg.thumb.webp);
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+    margin-top: 80px;
+}
+
+.A_series {
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.oppoA77s {
+    background-image: url(./images/oppoA77s.png);
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.oppo_A77s {
+    font-size: 29px;
+    margin-top: 380px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+.Kseries {
+    background-image: url(./images/K-series.jpg.thumb.webp);
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+    margin-top: 80px;
+}
+
+.K_series {
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}

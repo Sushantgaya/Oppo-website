@@ -1,0 +1,150 @@
+.Audio {
+    font-size: 50px;
+    margin-top: 120px;
+    font-family: sans-serif;
+    margin-left: 100px;
+}
+
+.Audio_banner {
+    background-image: url(./images/audio-banner.jpg);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.Aud_Ban {
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.weekly {
+    font-size: 20px;
+    color: aquamarine;
+}
+
+.EncoAir3 {
+    background-image: url(./images/oppo\ Enco\ Air3.png);
+    margin-left: 30px;
+    /* margin-top: px; */
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Enco_Air3 {
+    font-size: 25px;
+    margin-top: 400px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+del {
+    color: red;
+}
+
+.oppo_Enco {
+    background-image: url(./images/Oppo\ Enco\ Burd2.png);
+    margin-left: 450px;
+    margin-top: -380px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Enco_Burd2 {
+    font-size: 25px;
+    margin-top: 380px;
+    margin-left: 100px;
+    color: darkblue;
+}
+
+.oppo_EncoX2 {
+    background-image: url(./images/Oppo\ Enco\ X2.png);
+    margin-left: 950px;
+    margin-top: -420px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Enco_X2 {
+    font-size: 25px;
+    margin-top: 390px;
+    margin-left: 110px;
+    color: darkblue;
+}
+
+.EncoAir2 {
+    background-image: url(./images/enco\ Air2.png);
+    margin-left: 30px;
+    margin-top: 40px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Enco_Air2 {
+    font-size: 25px;
+    margin-top: 360px;
+    margin-left: 70px;
+    color: darkblue;
+}
+
+del {
+    color: red;
+}
+
+.oppo_EncoM32 {
+    background-image: url(./images/enco\ M32.png);
+    margin-left: 450px;
+    margin-top: -380px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Enco_Burd2M32 {
+    font-size: 25px;
+    margin-top: 360px;
+    margin-left: 100px;
+    color: darkblue;
+}
+
+.oppo_MH319 {
+    background-image: url(./images/oppo\ MH319.png);
+    margin-left: 950px;
+    margin-top: -420px;
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    border: dotted rgb(248, 247, 247);
+}
+
+.Enco_319 {
+    font-size: 22px;
+    margin-top: 370px;
+    margin-left: 110px;
+    color: darkblue;
+}

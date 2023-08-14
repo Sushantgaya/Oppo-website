@@ -1,0 +1,99 @@
+.About {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.about_oppo {
+    text-decoration: dashed;
+    color: blueviolet;
+    font-style: italic;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#video_edit {
+    height: 600px;
+    width: 70%;
+    margin-left: 286px;
+}
+
+.inspiration {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 760px;
+    width: 70%;
+    margin-left: 286px;
+}
+
+.brand {
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+    color: greenyellow;
+}
+
+.ahead {
+    text-align: left;
+    padding: 10px;
+    font-size: 50px;
+    border-bottom: 2px solid rgb(211, 237, 219);
+    box-shadow: 0px 3px 0px 0px rgba(230, 217, 70, 0.411);
+}
+
+.words {
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.history {
+    text-align: center;
+    /* background-color: black; */
+    /* height: 200px; */
+    /* color: white; */
+    margin: 10px;
+    width: 70%;
+    margin-left: 286px;
+}
+
+.Brand_his {
+    text-align: left;
+    padding: 10px;
+    font-size: 50px;
+    box-shadow: 0px 3px 0px 0px rgba(230, 217, 70, 0.411);
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.Brand_history {
+    font-size: 30px;
+    padding: 10px;
+    text-align: left;
+}
+
+.Milstone {
+    text-align: center;
+    /* background-color: black; */
+    /* height: 200px; */
+    /* color: white; */
+    margin: 10px;
+    width: 70%;
+    margin-left: 286px;
+}
+
+.Brand_mils {
+    text-align: left;
+    padding: 10px;
+    font-size: 50px;
+    box-shadow: 0px 3px 0px 0px rgba(230, 217, 70, 0.411);
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.Brand_milstone {
+    font-size: 30px;
+    padding: 10px;
+    text-align: left;
+}
